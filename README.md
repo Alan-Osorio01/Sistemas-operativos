@@ -1,5 +1,5 @@
 # Sistemas operativos 
-### Integrantes:
+## Integrantes:
 Alan Steve Osorio Zuluaga
 
 Daniel Reyes Pinilla
