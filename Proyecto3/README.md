@@ -25,19 +25,19 @@ Este proyecto implementa un sistema de microservicios para procesar solicitudes 
 ## Cómo Ejecutar el Proyecto
 1. Iniciar el servidor de recepción:
    ```bash
-   python recep.py
+   python3 recep.py
    ```
 2. Iniciar el microservicio de procesamiento:
    ```bash
-   python proce.py
+   python3 proce.py
    ```
 3. Ejecutar el cliente para enviar solicitudes:
    ```bash
-   python cliente.py
+   python3 cliente.py
    ```
    - Alternativamente, para pruebas de estrés:
    ```bash
-   python clientep.py
+   python3 clientep.py
    ```
 
 ## Requisitos
