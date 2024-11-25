@@ -1,5 +1,11 @@
 
 # Proyecto de Microservicios para Operaciones Matemáticas
+## Intengrantes:
+1. Alan Osorio
+2. Ana Amador
+3. Daniela Lopez
+4. Daniel Reyes
+5. Paula Caballero 
 
 ## Descripción General
 Este proyecto implementa un sistema de microservicios para procesar solicitudes de operaciones matemáticas. Utiliza sockets para la comunicación entre clientes y servidores.
